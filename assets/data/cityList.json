@@ -1,0 +1,16 @@
+[
+    {"cityID": 1, "cityName": "北京", "maxSalary": "35283", "minSalary": "6821" },
+    {"cityID": 2, "cityName": "上海", "maxSalary": "36921", "minSalary": "7384" },
+    {"cityID": 3, "cityName": "广州", "maxSalary": "26421", "minSalary": "5284" },
+    {"cityID": 4, "cityName": "深圳", "maxSalary": "32376", "minSalary": "3523" },
+    {"cityID": 5, "cityName": "成都", "maxSalary": "22555", "minSalary": "4511" },
+    {"cityID": 6, "cityName": "重庆", "maxSalary": "21793", "minSalary": "4359" },
+    {"cityID": 7, "cityName": "武汉", "maxSalary": "21120", "minSalary": "4224" },
+    {"cityID": 8, "cityName": "杭州", "maxSalary": "24060", "minSalary": "4462" },
+    {"cityID": 9, "cityName": "南京", "maxSalary": "24042", "minSalary": "4250" },
+    {"cityID": 10, "cityName": "天津", "maxSalary": "25065", "minSalary": "5013" },
+    {"cityID": 11, "cityName": "哈尔滨", "maxSalary": "21133", "minSalary": "4227" },
+    {"cityID": 12, "cityName": "沈阳", "maxSalary": "20529", "minSalary": "4106" },
+    {"cityID": 13, "cityName": "西安", "maxSalary": "273540", "minSalary": "4638" },
+    {"cityID": 14, "cityName": "太原", "maxSalary": "20564", "minSalary": "4113" }
+]
