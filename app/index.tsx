@@ -166,7 +166,7 @@ export default function Page() {
     const i = Number(tempPaymentBase)/(Number(currentCityInfo.maxSalary)/3)
     const basePension = calculateBasicPension(tempPaymentBase,Number(i.toFixed(1)),totalYear)
     const personalPension = calculatePersonalPension(tempPaymentBase, 0.08,Number(currentBalance), Number(currentAge),totalYear, Number(retirementAge),annualGrowthRate);
-    const personalBalance = calculateBalance(tempPaymentBase,0.08,Number(retirementAge) - Number(currentAge) ,annualGrowthRate);
+    const personalBalance = calculateBalance(tempPaymentBase,0.08,Number(retirementAge) - Number(currentAge) ,annualGrowthRate)+Number(currentBalance);
     setPersonalBalance(Number(personalBalance.toFixed(0)))
     setBasePension(basePension.toFixed(0))
     setPersonalPension(personalPension.toFixed(0))
